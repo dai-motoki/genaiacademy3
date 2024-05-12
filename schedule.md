@@ -1,6 +1,5 @@
 ## 生成AI塾 第3期生募集のお知らせ🎉
 
-![ai_content_creation_roadmap_page_1.png](./ai_content_creation_roadmap_page_1.png)
 
 
 ### プログラム特色:
