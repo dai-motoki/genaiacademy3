@@ -99,6 +99,9 @@ C. 生成AIエンジニア塾:
 - C.3.2 クラウド・生成AI講習②: 応用
 
 
+### カリキュラム全体像
+
+以下を大きくしてご覧ください。
 ![ai_content_creation_roadmap_page_1.png](./ai_content_creation_roadmap_page_1.png)
 
 ### 開催開始:
