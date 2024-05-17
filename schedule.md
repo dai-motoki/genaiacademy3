@@ -1,4 +1,4 @@
-## 生成AI塾 第3期生募集のお知らせ🎉
+[## 生成AI塾 第3期生募集のお知らせ🎉
 https://github.com/dai-motoki/genaiacademy3/blob/main/schedule.md
 
 ### プログラム特色:
@@ -180,3 +180,5 @@ C. 生成AIエンジニア塾:
 | ビジネス向け | A.1 生成AI概論, A.2 生成AIエディタ講習, A.3 生成AIの倫理とガバナンス, B.2 生成AI営業・マーケティング講座, B.3 生成AIUIUX&コンサル講座 | 21万円 |
 | エンジニア初学者向け | A.1 生成AI概論, A.2 生成AIエディタ講習, C.1.1 生成AI開発概論講習, C.1.2 テキスト生成AI開発講習, C.2.1 生成AI基礎開発講習 | 27万円 |
 | エンジニア上級者向け | C.2.2 フロントエンド開発講座, C.2.3 バックエンド開発講座, C.2.4 ワークフロー講座, C.3.1 クラウド・生成AI講習①: 基礎, C.3.2 クラウド・生成AI講習②: 応用 | 36万円 |
+](https://github.com/dai-motoki/genaiacademy3/blob/main/schedule.md
+)
